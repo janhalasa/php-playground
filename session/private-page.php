@@ -1,4 +1,4 @@
-<?php include_once('user-check.php'); ?>
+<?php require_once('user-check.php'); ?>
 
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en">
