@@ -18,6 +18,7 @@
         <button type="submit">Logout</button>
       </div>
     </form>
+    <div class="link-block">&raquo; <a href="login-form.php">Login form</a></div>
   </div>
 </body>
 </html>

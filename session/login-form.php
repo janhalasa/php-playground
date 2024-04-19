@@ -21,7 +21,9 @@
     ?>
     <form action="login.php" method="POST">
       
-      <div class="form-group">Valid username/password is anything with 5 or more letters.</div>
+      <ul>
+        <li>Valid username/password is anything with 5 or more letters.</li>
+      </ul>
       
       <div class="form-group">
         <div><label for="username">Username:</label></div>
@@ -37,6 +39,8 @@
         <button type="submit">Login</button>
       </div>
     </form>
+
+    <div class="link-block">&raquo; <a href="private-page.php">Private page</a></div>
   </div>
 </body>
 </html>
